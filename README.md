@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NabilahSharfina
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Nabilah Sharfina
+- 👀 I’m interested in Data Analyst / Wordpress Development
 - 🌱 I’m currently learning Phyton, SQL, R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me?
