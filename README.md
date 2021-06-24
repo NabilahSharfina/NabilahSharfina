@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Nabilah Sharfina's GitHub stats](https://NabilahSharfina.vercel.app/api?username=NabilahSharfina)](https://github.com/NabilahSharfina/NabilahSharfina)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Nabilah Sharfina's GitHub stats](https://NabilahSharfina.vercel.app/api?username=NabilahSharfina&show_icons=true&theme=radical)
