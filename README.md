@@ -1,8 +1,8 @@
 ## **INTRODUCTION**
-- 👋 Hello World! I’m Nabilah Sharfina
-- 👀 I’m interested in Music, Data Analytic, and Copywriting
-- 🌱 I’m currently learning Programming
-- 📫 How to reach me? nabilahsharfina20@gmail.com
+- 👋 Hello World! **I’m Nabilah Sharfina**
+- 👀 I’m interested in **Music, Data Analytic, and Copywriting**
+- 🌱 I’m currently learning **Programming**
+- 👩‍🎓 I’m currently studying at **Institute of Technology Telkom Purwokerto**
 
 <!---
 NabilahSharfina/NabilahSharfina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,14 +30,14 @@ You can click the Preview link to take a look at your changes.
 <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://desktop.github.com/" target="_blank"><img src="https://desktop.github.com/images/desktop-icon.svg" alt="github-desktop" width="40" height="40"/></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://jupyter.org/assets/main-logo.svg" alt="jupyter" width="40" height="40"/></a>
 <a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://storage.googleapis.com/kotakode-prod-public/images/8b5b4ffa-a442-40b0-8e98-01a8c967a1bf-vscode.png" alt="vscode" width="80" height="40"/></a>
 <a href="https://www.apachefriends.org/index.html" target="_blank"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp" width="40" height="40"/></a> 
 
 ## **SOCIAL MEDIA**
-Get in touch with me at:
-<br>
+- 📫 Get in touch with me at:
+
+<a href="https://www.gmail.com/nabilahsharfina20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.instagram.com/nabilah.sharfina" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/nabilah-sharfina" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.twitter.com/NabilahSharfina" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
