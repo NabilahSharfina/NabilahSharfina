@@ -1,6 +1,6 @@
 ## **INTRODUCTION**
 - 👋 Hello World! I’m Nabilah Sharfina
-- 👀 I’m interested in Music, Data Analyst, and Copywriting
+- 👀 I’m interested in Music, Data Analytic, and Copywriting
 - 🌱 I’m currently learning Programming
 - 📫 How to reach me? nabilahsharfina20@gmail.com
 
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## **GITHUB STATISTICS**
-[![NabilahSharfina's github trophy](https://github-profile-trophy.vercel.app/?username=NabilahSharfina&row=1)](https://github.com/NabilahSharfina/github-profile-trophy)
+[![NabilahSharfina's github trophy](https://github-profile-trophy.vercel.app/?username=NabilahSharfina&row=1&theme=gruvbox)](https://github.com/NabilahSharfina/github-profile-trophy)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NabilahSharfina&show_icons=true&theme=tokyonight)
 
