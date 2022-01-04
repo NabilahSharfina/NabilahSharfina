@@ -60,5 +60,5 @@ You can click the Preview link to take a look at your changes.
 - 📫 Get in touch with me at:
 
 <a href="https://www.instagram.com/nabilah.sharfina" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/nabilah-sharfina" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/nabilah-sharfina-1473a0208" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.twitter.com/NabilahSharfina" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
