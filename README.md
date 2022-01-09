@@ -1,8 +1,8 @@
 ## **INTRODUCTION**
-- 👋 Hello World! **I’m Nabilah Sharfina**.
-- 👀 I’m so interested in **Music, Data Analytic, and Copywriting**. Ready to learn more!
+- 👋 Hello World! I’m **Nabilah Sharfina**.
+- 👀 I’m so interested in **Music, Data Analytic, Web Development, and Copywriting**. Ready to learn more!
 - 👩‍💻 Currently learning **Programming**.
-- 🏫 Currently studying at **Institute of Technology Telkom Purwokerto**.
+- 🏫 Currently studying at **Telkom Institute of Technology Purwokerto**.
 
 <!---
 NabilahSharfina/NabilahSharfina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
