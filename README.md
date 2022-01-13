@@ -2,7 +2,7 @@
 - 👋 Hello World! I’m **Nabilah Sharfina**.
 - 👀 I’m so interested in **Music, Data Analytic, Web Development, and Copywriting**. Ready to learn more!
 - 👩‍💻 Currently learning **HTML, CSS, Javascript, PHP**.
-- 🏫 Currently studying at **Telkom Institute of Technology Purwokerto**.
+- 🏫 Currently studying in the **Telkom Institute of Technology Purwokerto**.
 - :mailbox_with_mail: Get in touch with me: nabilahsharfina20@gmail.com
 
 <!---
