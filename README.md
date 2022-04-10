@@ -1,9 +1,9 @@
 ## **INTRODUCTION**
 - 👋 Hello World! I’m **Nabilah Sharfina**.
-- 👀 I’m so interested in **Music, Data Analytic, Web Development, and Copywriting**. Ready to learn more!
-- 👩‍💻 Currently learning **HTML, CSS, Javascript, and PHP**.
-- 🏫 Currently studying in the **Telkom Institute of Technology Purwokerto**.
-- :mailbox_with_mail: Get in touch with me: nabilahsharfina20@gmail.com
+- 👀 I’m so interested in **Music, Data Analytics, and Copywriting**. Ready to learn more!
+- 👩‍💻 Currently learning **Python, R, and Javascript**.
+- 🏫 Currently studying in the **Telkom Purwokerto Institute of Technology**.
+- 📬 Get in touch with me: nabilahsharfina20@gmail.com
 
 <!---
 NabilahSharfina/NabilahSharfina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
