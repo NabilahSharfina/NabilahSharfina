@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://www.php.net/images/logos/php-logo.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.r-project.org" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="r" width="40" height="40"/></a>
 </details>
 <details> 
   <summary>💾 Database</summary>
@@ -49,12 +50,23 @@ You can click the Preview link to take a look at your changes.
   <summary>💻 Tools</summary>
   <br>
   
-<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://desktop.github.com/" target="_blank"><img src="https://desktop.github.com/images/desktop-icon.svg" alt="github-desktop" width="40" height="40"/></a>
-<a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://storage.googleapis.com/kotakode-prod-public/images/8b5b4ffa-a442-40b0-8e98-01a8c967a1bf-vscode.png" alt="vscode" width="80" height="40"/></a>
+<a href="https://developer.android.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/32689599?s=200&v=4" alt="android" width="40" height="40"/></a>
+<a href="https://www.postman.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="postman" width="40" height="40"/></a>
+<a href="https://desktop.github.com" target="_blank"><img src="https://desktop.github.com/images/desktop-icon.svg" alt="github-desktop" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://storage.googleapis.com/kotakode-prod-public/images/8b5b4ffa-a442-40b0-8e98-01a8c967a1bf-vscode.png" alt="vscode" width="80" height="40"/></a>
 <a href="https://www.apachefriends.org/index.html" target="_blank"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp" width="40" height="40"/></a>
+<br>
+<a href="https://balsamiq.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/3851890?s=200&v=4" alt="balsamiq" width="40" height="40"/></a>
+<a href="https://www.figma.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" alt="figma" width="40" height="40"/></a>
+<a href="https://www.qt.io" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt-designer" width="40" height="40"/></a>
+<br>
+<a href="https://developer.ibm.com/predictiveanalytics" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrP78cD1japqt-O9OYYYEFY4vwSHVZUHAc6KaRFi7Mm5jjIkTLCDrorLF3UNDrrPOKgFg&usqp=CAU" alt="ibm-spss" width="40" height="40"/></a>
+<a href="https://research.google.com/colaboratory" target="_blank"><img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" alt="google-colab" width="40" height="40"/></a>
+<a href="https://jupyter.org" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a>
+<a href="https://www.tableau.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/828667?s=200&v=4" alt="tableau" width="40" height="40"/></a>
+<br>
+<a href="https://www.notion.so" target="_blank"><img src="https://avatars.githubusercontent.com/u/4792552?s=200&v=4" alt="Notion" width="40" height="40"/></a>
+<a href="https://trello.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/6181431?s=200&v=4" alt="Trello" width="40" height="40"/></a>
 </details>
 
 ## **SOCIAL MEDIA**
