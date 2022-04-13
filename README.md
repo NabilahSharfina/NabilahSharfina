@@ -50,10 +50,10 @@ You can click the Preview link to take a look at your changes.
   <summary>💻 Tools</summary>
   <br>
   
-<a href="https://developer.android.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/32689599?s=200&v=4" alt="android" width="40" height="40"/></a>
+<a href="https://developer.android.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/32689599?s=200&v=4" alt="android-studio" width="40" height="40"/></a>
 <a href="https://www.postman.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="postman" width="40" height="40"/></a>
 <a href="https://desktop.github.com" target="_blank"><img src="https://desktop.github.com/images/desktop-icon.svg" alt="github-desktop" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com" target="_blank"><img src="https://storage.googleapis.com/kotakode-prod-public/images/8b5b4ffa-a442-40b0-8e98-01a8c967a1bf-vscode.png" alt="vscode" width="80" height="40"/></a>
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://camo.githubusercontent.com/6db18e609151830015183afde5ebe94fbff50627fb5a3c670627f9d8026919b4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32642f56697375616c5f53747564696f5f436f64655f312e31385f69636f6e2e737667" alt="vscode" width="40" height="40"/></a>
 <a href="https://www.apachefriends.org/index.html" target="_blank"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp" width="40" height="40"/></a>
 <br>
 <a href="https://balsamiq.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/3851890?s=200&v=4" alt="balsamiq" width="40" height="40"/></a>
@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <a href="https://developer.ibm.com/predictiveanalytics" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrP78cD1japqt-O9OYYYEFY4vwSHVZUHAc6KaRFi7Mm5jjIkTLCDrorLF3UNDrrPOKgFg&usqp=CAU" alt="ibm-spss" width="40" height="40"/></a>
 <a href="https://research.google.com/colaboratory" target="_blank"><img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" alt="google-colab" width="40" height="40"/></a>
-<a href="https://jupyter.org" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a>
+<a href="https://jupyter.org" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter-notebook" width="40" height="40"/></a>
 <a href="https://www.tableau.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/828667?s=200&v=4" alt="tableau" width="40" height="40"/></a>
 <br>
 <a href="https://www.notion.so" target="_blank"><img src="https://avatars.githubusercontent.com/u/4792552?s=200&v=4" alt="Notion" width="40" height="40"/></a>
