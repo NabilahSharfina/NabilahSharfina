@@ -1,7 +1,7 @@
 ## **INTRODUCTION**
 - 👋 Hello World! I’m **Nabilah Sharfina**.
-- 📌 I’m so interested in **Music, Data Analytics, and Copywriting**. Ready to learn more!
-- 👩‍💻 Currently learning **Machine Learning and Deep Learning with Python**.
+- 📌 I’m so interested in **Music, Data Analyst, and Copywriting**. Ready to learn more!
+- 👩‍💻 Currently learning **Data Science and Data Analytics using Python, R, and SQL**.
 - 🏫 Currently studying in the **Telkom Purwokerto Institute of Technology**.
 - 📬 Get in touch with me: nabilahsharfina20@gmail.com
 
