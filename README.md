@@ -39,19 +39,20 @@ You can click the Preview link to take a look at your changes.
   <summary>💾 Database</summary>
   <br>
   <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://dbeaver.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/34743864?s=200&v=4" alt="DBeaver" width="40" height="40"/></a>
 </details>
 <details> 
   <summary>💻 Tools</summary>
   <br>
-  <a href="https://desktop.github.com" target="_blank"><img src="https://desktop.github.com/images/desktop-icon.svg" alt="github-desktop" width="40" height="40"/></a>
+  <a href="https://research.google.com/colaboratory" target="_blank"><img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" alt="google-colab" width="40" height="40"/></a>
+  <a href="https://jupyter.org" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter-notebook" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40"/></a>
+  <a href="https://desktop.github.com" target="_blank"><img src="https://desktop.github.com/images/desktop-icon.svg" alt="github-desktop" width="40" height="40"/></a>
+  <br>
+  <a href="https://dbeaver.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/34743864?s=200&v=4" alt="DBeaver" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://www.apachefriends.org/index.html" target="_blank"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp" width="40" height="40"/></a>
   <br>
   <a href="https://hitachivantara.okta.com/login/signout" target="_blank"><img src="https://avatars.githubusercontent.com/u/1022787?s=200&v=4" alt="Pentaho" width="40" height="40"/></a>
-  <a href="https://research.google.com/colaboratory" target="_blank"><img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" alt="google-colab" width="40" height="40"/></a>
-  <a href="https://jupyter.org" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter-notebook" width="40" height="40"/></a>
   <a href="https://www.tableau.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/828667?s=200&v=4" alt="tableau" width="40" height="40"/></a>
   <a href="https://developers.google.com/looker-studio" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPvdJlCIcqsZtEYkejcMA4NZlWVbAVpha8Ew&usqp=CAU" alt="Looker Studio" width="40" height="40"/></a>
   <br>
