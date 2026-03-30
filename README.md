@@ -1,8 +1,8 @@
 ## **INTRODUCTION**
 - 👋 Hello World! I’m **Nabilah Sharfina**.
-- 📌 I’m so interested in **Music, Data Analyst, and Data Science**. Ready to learn more!
-- 👩‍💻 Currently learning **Data Science and Data Analytics using Python, R, and SQL**.
-- 🏫 I graduated from **Telkom Purwokerto Institute of Technology** in 2023.
+- 📌 I’m so interested in **Data Analyst and Data Science**. Ready to learn more!
+- 👩‍💻 Currently learning **Python, Excel, and Tableau**.
+- 🏫 I graduated from **Telkom Institute of Technology Purwokerto** in 2023.
 - 📬 Get in touch with me: nabilahsharfina20@gmail.com
 
 <!---
@@ -44,7 +44,6 @@ You can click the Preview link to take a look at your changes.
   <summary>💻 Tools</summary>
   <br>
   <a href="https://research.google.com/colaboratory" target="_blank"><img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" alt="google-colab" width="40" height="40"/></a>
-  <a href="https://jupyter.org" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter-notebook" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40"/></a>
   <a href="https://desktop.github.com" target="_blank"><img src="https://desktop.github.com/images/desktop-icon.svg" alt="github-desktop" width="40" height="40"/></a>
   <br>
@@ -57,13 +56,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://developers.google.com/looker-studio" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPvdJlCIcqsZtEYkejcMA4NZlWVbAVpha8Ew&usqp=CAU" alt="Looker Studio" width="40" height="40"/></a>
   <br>
   <a href="https://www.notion.so" target="_blank"><img src="https://avatars.githubusercontent.com/u/4792552?s=200&v=4" alt="Notion" width="40" height="40"/></a>
-  <a href="https://trello.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/6181431?s=200&v=4" alt="Trello" width="40" height="40"/></a>
-  <a href="https://atlassian.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/168166?s=200&v=4" alt="Jira" width="40" height="40"/></a>
 </details>
 
 ## **SOCIAL MEDIA**
-<a href="https://github.com/NabilahSharfina" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
-<a href="https://public.tableau.com/app/profile/nabilah.sharfina" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Public"></a>
-<a href="https://www.instagram.com/nabilah.sharfina" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/nabilah-sharfina-1473a0208" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.twitter.com/NabilahSharfina" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.instagram.com/nabilah.sharfina" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://public.tableau.com/app/profile/nabilah.sharfina" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Public"></a>
